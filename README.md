@@ -71,7 +71,9 @@ classification:suspicious spoofable:true metadata.tags:"energy"
 Purpose: Detect spoofable, suspicious activity where attackers might be probing defenses while mimicking benign traffic patterns.
 
 
-
+## Reference 
+- https://docs.greynoise.io/docs/community-resources
+- https://docs.greynoise.io/docs/understanding-greynoise-classifications?_ga=2.92911256.465120412.1729077376-2101714926.1723709008
 
 
 
