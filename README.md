@@ -8,7 +8,7 @@ These alerts offer comprehensive monitoring, allowing you to catch both obvious 
 ## 1. Endpoint Denial of Service (T1499):
 
 ```
-metadata.org:"COMPANY" classification:malicious spoofable:false technique_id:T1499
+metadata.org:"COMPANY" classification:malicious spoofable:false technique_id:T1499 
 
 ```
 Purpose: Detect non-spoofable malicious traffic related to Endpoint Denial of Service attempts, which is a common energy sector attack.
